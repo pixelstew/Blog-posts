@@ -1,5 +1,4 @@
 #Design and Development Blog
----
 
 ##Possible upcoming blog posts
 
